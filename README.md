@@ -5,7 +5,7 @@
 
 - 🌱  -  Currently learning about **Gatsby and static side generators**
 
-- 👨‍💻   -  All of my projects are available on PW [https://jhaegman.com](https://jhaegman.com), [https://githum.com/Skiwa](GitHub profile) or [https://gitlab.com/Skiwa](GitLab profile)
+- 👨‍💻   -  All of my projects are available on my [personal website](https://jhaegman.com), [GitHub profile](https://github.com/Skiwa) or [GitLab profile](https://gitlab.com/Skiwa)
 
 - 📝   -  I (try to) write articles on my PW [https://jhaegman.com](https://jhaegman.com)
 
