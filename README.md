@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋</h1>
-<h3 align="center">I'm a freelance full stack / mobile web developer from Saint-Etienne, France</h3>
+<h1 align="center">Julien Haegman</h1>
+<h3 align="center">Freelance full stack / mobile web developer from Saint-Etienne, France</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skiwa" alt="skiwa" /></a> </p>
+
 
 - 🌱  -  Currently learning about **Gatsby and static side generators**
 
