@@ -1,7 +1,54 @@
-# Hi! 
+# Hi!
 
-I'm Julien Haegman, a freelance Full Stack and Mobile Web Developer, specializing in React, React Native, Node.js, and TypeScript. With a solid track record of working 100% remotely, I turn your ideas into high-performance, well-tested, and scalable solutions.<br><br>🔧 Technical Skills<br>Frontend Web Development:<br>- <b>React</b><br>- State Management: Redux, Redux Toolkit, RxJS<br>- Testing: Jest, React Testing Library<br>- CSS: Tailwind, MUI, BEM methodology<br>- Atomic design architecture<br><br>Mobile Development:<br>- Design and development of native apps for iOS and Android using <b>React Native</b> and Expo<br><br>Backend & API Development:<br>- Scalable and robust backends with <b>Node.js</b><br>- Functional programming (Effect / fp-ts)<br>- Remix (full-stack architectures and APIs)<br>- Databases: PostgreSQL, MySQL, MongoDB<br>- APIs: GraphQL, RESTful<br>- Security: Strong grasp of standards (OWASP), JWT authentication, OAuth<br>- External API Management: Secure integration and orchestration of major third-party APIs (e.g., Google APIs, Meta/Facebook Graph API)<br><br>Concepts & Methodologies:<br>- Agile methodologies (Scrum, Kanban)<br>- TDD (Test-Driven Development)<br>- Clean Code and strong command of design patterns (SOLID, DRY, KISS)<br>- Version Control & Collaboration:<br>- Git (GitHub, GitLab, BitBucket)<br>- Project management: Shortcut, Jira, Trello, Asana<br>- Design tools: Figma, Adobe XD<br><br>Other Skills:<br>- CI/CD development experience (Docker / CircleCI / GCP)<br><br>💡 My Approach & Added Value<br>- Software craftsmanship and thoroughly tested code<br>- Mastery of full remote work with strong autonomy<br>- Proactive mindset and critical thinking<br>- Use of AI tools to boost productivity and enhance code quality
+I'm Julien Haegman, a freelance Full Stack and Mobile Web Developer, specializing in React, React Native, Node.js, and TypeScript. With a solid track record of working 100% remotely, I turn your ideas into high-performance, well-tested, and scalable solutions.
 
+## 🔧 Technical Skills
+
+### Frontend Web Development:
+
+- **React**
+- State Management: Redux, Redux Toolkit, RxJS
+- Testing: Jest, React Testing Library
+- CSS: Tailwind, MUI, BEM methodology
+- Atomic design architecture
+
+### Mobile Development:
+
+- Design and development of native apps for iOS and Android using **React Native** and Expo
+
+### Backend & API Development:
+
+- Scalable and robust backends with **Node.js**
+- Functional programming (Effect / fp-ts)
+- Remix (full-stack architectures and APIs)
+- Databases: PostgreSQL, MySQL, MongoDB
+- APIs: GraphQL, RESTful
+- Security: Strong grasp of standards (OWASP), JWT authentication, OAuth
+- External API Management: Secure integration and orchestration of major third-party APIs (e.g., Google APIs, Meta/Facebook Graph API)
+
+### Concepts & Methodologies:
+
+- Agile methodologies (Scrum, Kanban)
+- TDD (Test-Driven Development)
+- Clean Code and strong command of design patterns (SOLID, DRY, KISS)
+
+### Version Control & Collaboration:
+
+- Git (GitHub, GitLab, BitBucket)
+- Project management: Shortcut, Jira, Trello, Asana
+- Design tools: Figma, Adobe XD
+
+### Other Skills:
+
+- CI/CD development experience (Docker / CircleCI / GCP)
+
+## 💡 My Approach & Added Value
+
+- Software craftsmanship and thoroughly tested code
+- Mastery of full remote work with strong autonomy
+- Proactive mindset and critical thinking
+- Use of AI tools to boost productivity and enhance code quality
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/julien-haegman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:julien@jhaegman.com) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/julien-haegman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:julien@jhaegman.com)
